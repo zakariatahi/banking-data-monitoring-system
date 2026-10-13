@@ -2,6 +2,8 @@
 
 An academic banking data warehouse and monitoring project built with Oracle SQL/PL/SQL and Power BI. The project transforms raw banking records into cleaned data, a star schema, risk indicators, and dashboard views.
 
+![Banking monitoring dashboard preview](assets/dashboard-preview.png)
+
 ## Architecture
 
 ```text
